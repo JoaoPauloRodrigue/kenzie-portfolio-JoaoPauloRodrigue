@@ -31,19 +31,20 @@ export const Home = (): JSX.Element => {
       <Header>
         <Container>
           <HeaderContent>
-            <Text as="h1" type="heading1" color="grey5">
+            <Text as="h1" type="heading1" color="grey1">
               Criando experiências por meio da tecnologia{" "}
             </Text>
-            <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
+            <Text type="body1" color="grey1">
+              Sou amante da tecnologia e programação, sempre procuro aprimorar e aprender novas tecnologias.
+              E como estudante de programação na Kenzie Academy Brasil, participei
               de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+              desenvolvendo habilidades tanto no âmbito interpessoal, como também na capacidade de rápido aprenzidado. 
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
                 Projetos
               </Button>
-              <Button as="a" href="#tecnologias" type="btLink" color="grey5">
+              <Button as="a" href="#tecnologias" type="btLink" color="grey1">
                 Tecnologias
               </Button>
             </HeaderButtonsArea>
